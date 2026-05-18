@@ -1,6 +1,6 @@
 PlayerID=("1000010")
-BanStatus=("false")
-BABA=("")
+BanStatus=("true")
+BABA=("twest ban okak")
 IP=("9hW3IG3McYOAUbe8hZ7gcg==")
 RegisterDate=("2026-05-18 12:56:51")
 PlayerName=("Игрок 2212")
